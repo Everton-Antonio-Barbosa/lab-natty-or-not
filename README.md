@@ -28,9 +28,9 @@ Este e-book visual apresenta os principais conceitos e práticas de ciberseguran
 ---
 
 ## 🤖 Tecnologias Utilizadas  
-- IA Generativa **ChatGPT** para estruturar o conteúdo e revisar os textos  
-- Ferramenta **Canva** para criar as artes visuais do e-book  
-- Assistente **Copilot da Microsoft** para desenvolver os textos explicativos, descrições visuais e organização final do projeto
+- IA Generativa ChatGPT para estruturar o conteúdo e revisar os textos  
+- Ferramenta Canva para criar as artes visuais do e-book  
+- Assistente Copilot da Microsoft para desenvolver os textos explicativos, descrições visuais e organização final do projeto
 
 ---
 
@@ -44,7 +44,7 @@ Todo o conteúdo textual — incluindo os textos dos capítulos, descrições da
 O e-book apresenta um conteúdo educativo e visualmente atrativo, ideal para quem está começando a aprender sobre cibersegurança.  
 As imagens e textos foram integrados para facilitar a leitura e tornar o aprendizado mais envolvente, com foco em boas práticas e prevenção de ameaças digitais.
 
-📎 [Acesse o e-book completo aqui]([https://www.canva.com/design/DAG6aQ7W2CE/yv_pEKazG6VgWuloZMAMAA/edit?utm_content=DAG6aQ7W2CE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+📎  [Acesse o e-book completo aqui](https://www.canva.com/design/DAG6aQ7W2CE/yv_pEKazG6VgWuloZMAMAA/edit?utm_content=DAG6aQ7W2CE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
