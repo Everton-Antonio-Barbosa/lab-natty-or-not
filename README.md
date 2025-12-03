@@ -20,22 +20,40 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🔐 Fundamentos da Cibersegurança: Um Guia Visual para Iniciantes
 
-## 📒 Descrição
-Breve descrição do seu projeto
+## 📒 Descrição  
+Este e-book visual apresenta os principais conceitos e práticas de cibersegurança de forma clara e acessível. Com 7 capítulos ilustrados, ele orienta iniciantes sobre como proteger seus dados pessoais, redes domésticas e serviços em nuvem, além de oferecer dicas rápidas para manter a segurança digital no dia a dia.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+---
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+## 🤖 Tecnologias Utilizadas  
+- IA Generativa **ChatGPT** para estruturar o conteúdo e revisar os textos  
+- Ferramenta **Canva** para criar as artes visuais do e-book  
+- Assistente **Copilot da Microsoft** para desenvolver os textos explicativos, descrições visuais e organização final do projeto
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+---
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 🧐 Processo de Criação  
+Utilizei o ChatGPT para organizar a estrutura do e-book e definir os capítulos. A montagem visual foi feita no Canva, onde cada imagem foi criada com base nas descrições e conteúdos gerados pelo Copilot.  
+Todo o conteúdo textual — incluindo os textos dos capítulos, descrições das imagens e estrutura final — foi desenvolvido com o apoio do Copilot, que também me ajudou a revisar e preparar este repositório.
+
+---
+
+## 🚀 Resultados  
+O e-book apresenta um conteúdo educativo e visualmente atrativo, ideal para quem está começando a aprender sobre cibersegurança.  
+As imagens e textos foram integrados para facilitar a leitura e tornar o aprendizado mais envolvente, com foco em boas práticas e prevenção de ameaças digitais.
+
+📎 [Acesse o e-book completo aqui]([lab-natty-or-not](https://www.canva.com/design/DAG6aQ7W2CE/yv_pEKazG6VgWuloZMAMAA/edit?utm_content=DAG6aQ7W2CE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+
+---
+
+## 💭 Reflexão  
+Criar este e-book foi uma experiência enriquecedora. Pude explorar o potencial das ferramentas de IA para transformar conhecimento técnico em conteúdo acessível e visual.  
+A colaboração entre ChatGPT, Canva e Copilot mostrou como a tecnologia pode ser uma aliada poderosa na educação digital.
+
+---
+
 ```
 
 ### Exemplos e Insigths
