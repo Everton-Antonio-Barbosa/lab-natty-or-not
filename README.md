@@ -23,7 +23,8 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # 🔐 Fundamentos da Cibersegurança: Um Guia Visual para Iniciantes
 
 ## 📒 Descrição  
-Este e-book visual apresenta os principais conceitos e práticas de cibersegurança de forma clara e acessível. Com 7 capítulos ilustrados, ele orienta iniciantes sobre como proteger seus dados pessoais, redes domésticas e serviços em nuvem, além de oferecer dicas rápidas para manter a segurança digital no dia a dia.
+Este e-book visual apresenta os principais conceitos e práticas de cibersegurança de forma clara e acessível.
+Com 5 capítulos ilustrados, ele orienta iniciantes sobre como proteger seus dados pessoais, redes domésticas e serviços em nuvem, além de oferecer dicas rápidas para manter a segurança digital no dia a dia.
 
 ---
 
